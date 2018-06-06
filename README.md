@@ -1,2 +1,2 @@
-# css3.buttonsPseudoElements
-CSS Buttons with Pseudo-elements
+# Pseudo Elements Buttons with CSS3
+CSS Buttons with Pseudo-elements. See de code.
